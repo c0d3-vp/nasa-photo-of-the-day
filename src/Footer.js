@@ -2,11 +2,12 @@ import React from "react"
 
 function Footer() {
     return (
-        <header>
+        <footer>
             <hr />
-            <p> Site Made Possible by: Virginia Scirrotto</p>
-            <p>All Rights Reserved . Copyright 2020</p>
-        </header>
+            <p> Designed by: Virginia Scirrotto™</p>
+            <p>Made Possible by: NASA</p>
+            <p>All Rights Reserved © 2020</p>
+        </footer>    
     )
 }
 
